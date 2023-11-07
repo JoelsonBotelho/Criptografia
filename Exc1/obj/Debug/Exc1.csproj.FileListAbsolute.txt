@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\bin\Debug\Exc1.exe.config
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\bin\Debug\Exc1.exe
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\bin\Debug\Exc1.pdb
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.Form1.resources
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.Properties.Resources.resources
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.exe
+C:\Users\hp\Documents\Joelson Botelho\Exc1\Exc1\obj\Debug\Exc1.pdb
